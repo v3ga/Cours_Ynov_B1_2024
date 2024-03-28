@@ -1,4 +1,4 @@
-# Cours Processing B1 Ynov Bordeaux
+# Cours design interactif B1 Ynov Bordeaux
 *du 28 mars au 2 mai 2024*
 
 #### Sketches en ligne
