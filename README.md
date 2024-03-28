@@ -1,8 +1,6 @@
 # Cours design interactif B1 Ynov Bordeaux
 *du 28 mars au 2 mai 2024*
 
-<img src="images/quatre_elements_molnar.png" width="400 />
-
 #### Sketches en ligne
 ✍️ https://editor.p5js.org/v3ga/collections/hjK0S1GZf
 
