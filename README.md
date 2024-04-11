@@ -66,6 +66,7 @@ Choisir une des œuvres [« Homages to the square »](https://www.google.fr/se
 Bruno Munari est un artiste plasticien italien. Peintre, sculpteur, dessinateur, designer, il est également auteur et illustrateur de livres pour enfants (source : [wikipedia](https://fr.wikipedia.org/wiki/Bruno_Munari))
 
 <img src="https://raw.githubusercontent.com/v3ga/Cours_Ynov_B1_2023/main/cours02_visage_munari.png" height="250" /><img src="https://raw.githubusercontent.com/v3ga/Cours_Ynov_B1_2023/main/Design_as_art_cover-1.jpg" height="250" />
+<img src="images/Munari_visages.jpg" />
 
 ### Animer
 * Animer : 
