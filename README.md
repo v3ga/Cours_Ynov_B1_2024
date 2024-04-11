@@ -5,7 +5,7 @@
 ✍️ https://editor.p5js.org/v3ga/collections/hjK0S1GZf
 
 #### Google Sheets pour les rendus
-[À venir]
+✍️ https://docs.google.com/spreadsheets/d/14U-QiGUbMP2MJb4XGEI7uMfeGapXhsIvKfrTAt0r4-s/
 
 #### Visualisation de l'exécution d'un programme p5.js
 :male_detective: https://v3ga.net/p5LearnableProgramming/index_U2_L2_lines.php<br />
@@ -25,7 +25,7 @@ Le cours sera consacré au deux tiers à l'étude théorique de concepts de prog
 Pour les exercices que je vous donne, le barême est le suivant (sur 10)
 * **rendu en temps et en heure** :point_right: 1 point.
 * **respect de la consigne** :point_right: 3 points. 
-Le sketch doit être sauvegardé sur votre compte en ligne, l'addresse (URL) doit être insérée dans la colonne correspondante dans [le document Google Sheet](https://docs.google.com/spreadsheets/d/1o2iodrZ1eRMqgRZ5F2kOGk0EFqyRkUmMwBsui-VPnLk/). 
+Le sketch doit être sauvegardé sur votre compte en ligne, l'addresse (URL) doit être insérée dans la colonne correspondante dans [le document Google Sheet](https://docs.google.com/spreadsheets/d/14U-QiGUbMP2MJb4XGEI7uMfeGapXhsIvKfrTAt0r4-s/). 
 * **créativité** :point_right: 6 points. 
 J'entends par créativité une recherche graphique personelle et/ou interactive qui peut se faire à partir de sketches vus en classe ou de références que vous trouvez en ligne.
 
