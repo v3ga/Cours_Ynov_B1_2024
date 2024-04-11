@@ -55,7 +55,7 @@ J'entends par créativité une recherche graphique personelle et/ou interactive 
 #### Exercice
 Choisir une des œuvres [« Homages to the square »](https://www.google.fr/search?q=Josef+albers+square&sxsrf=AJOqlzXDonDyiy1zWyFfiJG2-z_exlfBGA:1677769320061&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj0_tjiwb39AhWwVaQEHe5MD3wQ_AUoAXoECAEQAw&biw=1298&bih=898&dpr=1) de Josef Albers pour le récréer avec du code.
 
-<img src="cours01_hommage_square.png" height="250" />
+<img src="https://raw.githubusercontent.com/v3ga/Cours_Ynov_B1_2023/main/cours01_hommage_square.png" height="250" />
 
 ## Cours 02
 *Jeudi 11 avril 2024*
