@@ -77,3 +77,6 @@ Bruno Munari est un artiste plasticien italien. Peintre, sculpteur, dessinateur,
 #### Exercice à rendre pour le jeudi 18 avril 2024
 Créez un visage dans le style de Bruno Munari en utilisant des formes géométriques.
 Ajouter un élément d’interactivité en utilisant [la position de la souris](https://p5js.org/reference/#/p5/mouseX) ou la fonction [random](https://p5js.org/reference/#/p5/random). Le visage se dessinera sur un canvas de dimensions (500,500) pixels, les couleurs à utiliser sont le noir et le blanc uniquement.
+
+##### Références
+* [Page de créations sur Domestika](https://www.domestika.org/fr/courses/4034-initiation-au-code-creatif-generez-des-objets-graphiques/community/forum/topics/210634-creez-votre-propre-visage-dans-le-style-de-bruno-munari)
