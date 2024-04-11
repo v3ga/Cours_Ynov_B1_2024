@@ -1,5 +1,5 @@
 # Cours design interactif B1 Ynov Bordeaux
-*du 28 mars au 2 mai 2024*
+*du 28 mars au 14 mai 2024*
 
 #### Sketches en ligne
 ✍️ https://editor.p5js.org/v3ga/collections/hjK0S1GZf
@@ -56,3 +56,23 @@ J'entends par créativité une recherche graphique personelle et/ou interactive 
 Choisir une des œuvres [« Homages to the square »](https://www.google.fr/search?q=Josef+albers+square&sxsrf=AJOqlzXDonDyiy1zWyFfiJG2-z_exlfBGA:1677769320061&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj0_tjiwb39AhWwVaQEHe5MD3wQ_AUoAXoECAEQAw&biw=1298&bih=898&dpr=1) de Josef Albers pour le récréer avec du code.
 
 <img src="cours01_hommage_square.png" height="250" />
+
+## Cours 02
+*Jeudi 11 avril 2024*
+
+### Dessiner avec du code (bis)
+* retour sur les notions vus au cours 01 avec le dessin d'un visage de Bruno Munari. Nous introduirons à ce sujet la notion de **variable** que nous reverrons dans le cours 03.
+
+Bruno Munari est un artiste plasticien italien. Peintre, sculpteur, dessinateur, designer, il est également auteur et illustrateur de livres pour enfants (source : [wikipedia](https://fr.wikipedia.org/wiki/Bruno_Munari))
+
+<img src="https://raw.githubusercontent.com/v3ga/Cours_Ynov_B1_2023/main/cours02_visage_munari.png" height="250" /><img src="https://raw.githubusercontent.com/v3ga/Cours_Ynov_B1_2023/main/Design_as_art_cover-1.jpg" height="250" />
+
+### Animer
+* Animer : 
+  * avec une fonction génératrice de nombre aléatoires : [random](https://p5js.org/reference/#/p5/random)  
+  * avec la variable de temps [frameCount](https://p5js.org/reference/#/p5/frameCount) et la fonction [millis()](https://p5js.org/reference/#/p5/millis)
+  * avec les variables [mouseX](https://p5js.org/reference/#/p5/mouseX) et [mouseY](https://p5js.org/reference/#/p5/mouseY) pour capter la position de la souris dans le canvas.
+
+#### Exercice à rendre
+Créez un visage dans le style de Bruno Munari en utilisant des formes géométriques.
+Ajouter un élément d’interactivité en utilisant [la position de la souris](https://p5js.org/reference/#/p5/mouseX) ou la fonction [random](https://p5js.org/reference/#/p5/random). Le visage se dessinera sur un canvas de dimensions (500,500) pixels, les couleurs à utiliser sont le noir et le blanc uniquement.
