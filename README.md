@@ -95,7 +95,7 @@ Ajouter un élément d’interactivité en utilisant [la position de la souris](
   * Utiliser la fonction [imageMode()](https://p5js.org/reference/#/p5/imageMode) pour changer l'origine du dessin de l'image.
   * utilisation des informations de couleurs pour générer une composition : effet de « pointillisme ».
 
-<img src="https://raw.githubusercontent.com/v3ga/Cours_Ynov_B1_2023/main/03_image_ibm.png" height="250" /><img src="https://raw.githubusercontent.com/v3ga/Cours_Ynov_B1_2023/main/03_image_pointillisme.png" height="250" />
+<img src="https://raw.githubusercontent.com/v3ga/Cours_Ynov_B1_2023/main/03_image_ibm.png" height="250" /><img src="https://raw.githubusercontent.com/v3ga/Cours_Ynov_B1_2023/main/03_image_pointillisme.png" height="250" /><img src="images/cours03_image_pointillisme_02.png" height="250" /><img src="images/cours03_image_pointillisme_03.png" height="250" /><img src="images/cours03_image_pointillisme_04.png" height="250" />
 
 ### Structure de branchement [if-else](https://p5js.org/reference/#/p5/if-else)
 * exemple avec affichage d’un objet en fonction de la position de la souris.
