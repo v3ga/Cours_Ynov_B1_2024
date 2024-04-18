@@ -82,3 +82,35 @@ Ajouter un élément d’interactivité en utilisant [la position de la souris](
 
 ##### Références
 * [Page de créations sur Domestika](https://www.domestika.org/fr/courses/4034-initiation-au-code-creatif-generez-des-objets-graphiques/community/forum/topics/210634-creez-votre-propre-visage-dans-le-style-de-bruno-munari)
+
+
+## Cours 03
+*jeudi 18 avril 2024*
+
+### Introduction à la notion de [variable](https://p5js.org/reference/#/p5/let)
+* variables prédéfinies vues dans les cours précédents : mouseX / mouseY, width / height, frameCount.
+* création / utilisation d'une variable dans un sketch simple. 
+* Variable pour la gestion d'un media : 
+  * Chargement et affichage d'une image, gestionnaire [preload()](https://p5js.org/reference/#/p5/preload)
+  * Utiliser la fonction [imageMode()](https://p5js.org/reference/#/p5/imageMode) pour changer l'origine du dessin de l'image.
+  * utilisation des informations de couleurs pour générer une composition : effet de « pointillisme ».
+
+<img src="https://raw.githubusercontent.com/v3ga/Cours_Ynov_B1_2023/main/03_image_ibm.png" height="250" /><img src="https://raw.githubusercontent.com/v3ga/Cours_Ynov_B1_2023/main/03_image_pointillisme.png" height="250" />
+
+### Structure de branchement [if-else](https://p5js.org/reference/#/p5/if-else)
+* exemple avec affichage d’un objet en fonction de la position de la souris.
+* Modélisation d'un objet (bille), rebond sur les bords de l'écran.
+
+<img src="https://raw.githubusercontent.com/v3ga/Cours_Ynov_B1_2023/main/03_bille_condition.png" height="250" />
+
+#### Exercice à rendre pour le jeudi 25 avril 2024
+Réaliser un collage d'images (au moins trois) qui représente un visage. Pour cela, vous utiliserez autant de variables représentant une image que nécessaire : 
+* Les dimensions du sketch seront carrées (500 x 500). N'hésitez pas si nécessaire à découper les images avec une application avant de les intégrer.
+* Vous implémenterez l'export d'une image à l'appui d'une touche sur le clavier, le nom de l'image devra être **Prénom_Nom.png**
+
+Voici quelques exemples réalisés par la promo [2019-2020 des L2 Arts / Design](https://licence.designbordeaux.fr/LAG4U6/2019-2020/) à l'Université Bordeaux Montaigne.
+
+<img src="https://licence.designbordeaux.fr/LAG4U6/2019-2020/Data/Img/02-visages/Lily_Gauthier.png" height="250" /><img src="https://licence.designbordeaux.fr/LAG4U6/2019-2020/Data/Img/02-visages/Lucie_Dumoulin.png" height="250" /><img src="https://licence.designbordeaux.fr/LAG4U6/2019-2020/Data/Img/02-visages/Samia_AiboudBenchekroun.png" height="250" /><img src="https://licence.designbordeaux.fr/LAG4U6/2019-2020/Data/Img/02-visages/Valentine_Testet.png" height="250" />
+
+Quelques exemples pour l'inspiration : 
+ * [Les collages de John Stezaker](http://www.laboiteverte.fr/les-collages-de-john-stezaker/)
