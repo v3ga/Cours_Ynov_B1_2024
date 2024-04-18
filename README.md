@@ -115,3 +115,4 @@ Voici quelques exemples réalisés par la promo [2019-2020 des L2 Arts / Design]
 Quelques exemples pour l'inspiration : 
  * [Les collages de John Stezaker](http://www.laboiteverte.fr/les-collages-de-john-stezaker/)
  * [Collages / Visages sur Pinterest](https://www.pinterest.fr/pin/296111744258061281/)
+ * [Jean Faucheur / Inquiétude](https://www.jeanfaucheur.net/photographies/2016/1/6/inquitude) 
