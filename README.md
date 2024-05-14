@@ -132,6 +132,9 @@ Quelques exemples pour l'inspiration :
 <a href="https://www.centrepompidou.fr/fr/ressources/oeuvre/cez6op" target="_blank"><img src="https://raw.githubusercontent.com/v3ga/Cours_Ynov_B1_2023/main/VeraMolnar_1959.png" height="250"/></a><br>
 <img src="https://raw.githubusercontent.com/v3ga/Cours_Ynov_B1_2023/main/04_quatre_éléments.png" height="250" /><img src="https://raw.githubusercontent.com/v3ga/Cours_Ynov_B1_2023/main/04_truchet.png" height="250" />
 
+* Exemple d'éxécution pas à pas d'une boucle for : https://v3ga.net/p5LearnableProgramming/index_U2_L2_loop.php
+
+
 ### Export au format vectoriel 
 Nous allons apprendre à exporter au format vectoriel [SVG](https://fr.wikipedia.org/wiki/Scalable_Vector_Graphics). L'environnement p5js ne gère pas nativement ce format, aussi nous allons importer une librairie externe qui va venir étendre ses fonctionnalités. Nous partirons du sketch suivant : https://editor.p5js.org/v3ga/sketches/uKzTvbgQ8
 
@@ -151,6 +154,11 @@ Les contraintes sont de n'utiliser que des contours et pas de formes pleines (*n
 Je porterai le traceur pour faire une démonstration au cours du jeudi 23 mai.
 
 <img src="https://raw.githubusercontent.com/v3ga/Cours_Ynov_B1_2023/main/Axidraw-landscape-720p.gif" width="100%" />
+
+## Cours 05
+**jeudi 23 mai 2024**
+
+Nous apprendrons aussi à relier une variable à un élément d'interface graphique (UI = user interface) pour explorer plus facilement les potentialités de notre algorithme en modifiant la valeur de variables grâce à des [sliders](https://p5js.org/reference/#/p5/createSlider) ou en déclanchant des actions avec des [boutons](https://p5js.org/reference/#/p5/createButton)
 
 
 
