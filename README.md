@@ -1,5 +1,5 @@
 # Cours design interactif B1 Ynov Bordeaux
-*du 28 mars au 14 mai 2024*
+*du 28 mars au 30 mai 2024*
 
 #### Sketches en ligne
 ✍️ https://editor.p5js.org/v3ga/collections/hjK0S1GZf
@@ -115,4 +115,29 @@ Voici quelques exemples réalisés par la promo [2019-2020 des L2 Arts / Design]
 Quelques exemples pour l'inspiration : 
  * [Les collages de John Stezaker](http://www.laboiteverte.fr/les-collages-de-john-stezaker/)
  * [Collages / Visages sur Pinterest](https://www.pinterest.fr/pin/296111744258061281/)
- * [Jean Faucheur / Inquiétude](https://www.jeanfaucheur.net/photographies/2016/1/6/inquitude) 
+ * [Jean Faucheur / Inquiétude](https://www.jeanfaucheur.net/photographies/2016/1/6/inquitude)
+
+## Cours 04
+*mardi 14 mai 2024*
+
+### Révision de la structure [if-else](https://p5js.org/reference/#/p5/if-else)
+* exemple de partition de l'espace et opérateurs logiques.
+
+### Introduction à la notion de [boucle](https://p5js.org/reference/#/p5/for)
+* répétition d’un élément graphique de façon « naïve ».
+* utilisation d'une boucle pour réaliser le même sketch. 
+* création d'une double boucles imbriquées : pavage de du canvas avec un motif, modulation de la taille des motifs en fonction de la souris et du temps.
+* Utilisation de cette grille pour reprogrammer une œuvre de [Vera Molnar](http://www.veramolnar.com/) : [Quatre éléments ditribués au hasard (1959)](https://www.centrepompidou.fr/fr/ressources/oeuvre/cez6op)
+
+<a href="https://www.centrepompidou.fr/fr/ressources/oeuvre/cez6op" target="_blank"><img src="https://raw.githubusercontent.com/v3ga/Cours_Ynov_B1_2023/main/VeraMolnar_1959.png" height="250"/></a><br>
+<img src="https://raw.githubusercontent.com/v3ga/Cours_Ynov_B1_2023/main/04_quatre_éléments.png" height="250" /><img src="https://raw.githubusercontent.com/v3ga/Cours_Ynov_B1_2023/main/04_truchet.png" height="250" />
+
+### Export au format vectoriel 
+Nous allons apprendre à exporter au format vectoriel [SVG](https://fr.wikipedia.org/wiki/Scalable_Vector_Graphics). L'environnement p5js ne gère pas nativement ce format, aussi nous allons importer une librairie externe qui va venir étendre ses fonctionnalités. Nous partirons du sketch suivant : https://editor.p5js.org/v3ga/sketches/uKzTvbgQ8
+
+ 
+#### Références 
+* [Grilles de truchet (images)](https://www.qwant.com/?client=brz-brave&t=images&q=truchet+grille&o=0%3AC9C8648332497AA6B9189484BAF8D6733465D4F4)
+* [Jean-Noël Lafargue - L'improvisateur de tissus (1871)](https://hyperbate.fr/dernier/?p=42335)<br />*Le 28 juillet 1871, face à l’Académie d’Amiens, l’ingénieur textile Édouard Gand a présenté ses travaux sur ce que l’on peut considérer comme un des tout premiers exemples — sinon le premier exemple véritable — de design génératif mécanique.*
+* [Guillaume Pelletier-Auger - Les pavages de Truchet](https://pelletierauger.com/fr/projets/les-pavages-de-truchet.html)<br />*Errances dans les mathématiques françaises du XVIIIe siècle.*
+
