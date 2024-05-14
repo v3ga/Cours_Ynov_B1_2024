@@ -141,3 +141,15 @@ Nous allons apprendre à exporter au format vectoriel [SVG](https://fr.wikipedia
 * [Jean-Noël Lafargue - L'improvisateur de tissus (1871)](https://hyperbate.fr/dernier/?p=42335)<br />*Le 28 juillet 1871, face à l’Académie d’Amiens, l’ingénieur textile Édouard Gand a présenté ses travaux sur ce que l’on peut considérer comme un des tout premiers exemples — sinon le premier exemple véritable — de design génératif mécanique.*
 * [Guillaume Pelletier-Auger - Les pavages de Truchet](https://pelletierauger.com/fr/projets/les-pavages-de-truchet.html)<br />*Errances dans les mathématiques françaises du XVIIIe siècle.*
 
+#### Exercice à rendre pour le jeudi 30 mai 2024
+Fabriquer une grille sur le modèle des « Quatre éléments distribués au hasard » de Vera Molnar en utilisant un des deux templates suivants : 
+
+* [template avec quatre éléments ](https://editor.p5js.org/v3ga/sketches/iKK2NoZqV)
+* [template avec deux éléments ](https://editor.p5js.org/v3ga/sketches/9X9Fk8KI0)
+  
+Les contraintes sont de n'utiliser que des contours et pas de formes pleines (*noFill()*) dans l'optique d'imprimer ces motifs à l'aide d'un traceur [AxiDraw](https://www.axidraw.com/).
+Je porterai le traceur pour faire une démonstration au cours du jeudi 23 mai.
+
+
+
+
