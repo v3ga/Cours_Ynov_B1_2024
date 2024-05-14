@@ -150,6 +150,10 @@ Fabriquer une grille sur le modèle des « Quatre éléments distribués au hasa
 Les contraintes sont de n'utiliser que des contours et pas de formes pleines (*noFill()*) dans l'optique d'imprimer ces motifs à l'aide d'un traceur [AxiDraw](https://www.axidraw.com/).
 Je porterai le traceur pour faire une démonstration au cours du jeudi 23 mai.
 
+<img src="https://raw.githubusercontent.com/v3ga/Cours_Ynov_B1_2023/main/Axidraw-landscape-720p.gif" width="100%" />
+
+
+
 
 
 
