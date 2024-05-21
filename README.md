@@ -143,6 +143,8 @@ Nous allons apprendre à exporter au format vectoriel [SVG](https://fr.wikipedia
 * [Grilles de truchet (images)](https://www.qwant.com/?client=brz-brave&t=images&q=truchet+grille&o=0%3AC9C8648332497AA6B9189484BAF8D6733465D4F4)
 * [Jean-Noël Lafargue - L'improvisateur de tissus (1871)](https://hyperbate.fr/dernier/?p=42335)<br />*Le 28 juillet 1871, face à l’Académie d’Amiens, l’ingénieur textile Édouard Gand a présenté ses travaux sur ce que l’on peut considérer comme un des tout premiers exemples — sinon le premier exemple véritable — de design génératif mécanique.*
 * [Guillaume Pelletier-Auger - Les pavages de Truchet](https://pelletierauger.com/fr/projets/les-pavages-de-truchet.html)<br />*Errances dans les mathématiques françaises du XVIIIe siècle.*
+* [Anna Carreras — Trossets](https://www.artblocks.io/legacy/collections/curated/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/147)
+* [Julien Gachadoat — Radiance](https://www.artblocks.io/legacy/collections/presents/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/106)
 
 #### Exercice à rendre pour le jeudi 30 mai 2024
 Fabriquer une grille sur le modèle des « Quatre éléments distribués au hasard » de Vera Molnar en utilisant un des deux templates suivants : 
@@ -156,9 +158,15 @@ Je porterai le traceur pour faire une démonstration au cours du jeudi 23 mai.
 <img src="https://raw.githubusercontent.com/v3ga/Cours_Ynov_B1_2023/main/Axidraw-landscape-720p.gif" width="100%" />
 
 ## Cours 05
-**jeudi 23 mai 2024**
+**mardi 21 mai 2024**
 
-Nous apprendrons aussi à relier une variable à un élément d'interface graphique (UI = user interface) pour explorer plus facilement les potentialités de notre algorithme en modifiant la valeur de variables grâce à des [sliders](https://p5js.org/reference/#/p5/createSlider) ou en déclanchant des actions avec des [boutons](https://p5js.org/reference/#/p5/createButton)
+Dans ce cours nous allons aborder deux choses : 
+* les **tableaux**, type de variable spéciale qui permet d'associer à une variable un ensemble de données, pratique pour gérer plusieurs objets simultanément. Nous appliquerons ce concept à la création d'un système de particules, en nous basant sur la modélisation de "bille" (ou particule) que nous avons vue au cours #03. Nous passerons de la gestion d'une particule à [n] particules. L'écriture et la lecture d'un tableau va se faire à travers une boucle for, notion vue au cours #04. 
+* nous apprendrons aussi à relier une variable à un élément d'interface graphique (UI = user interface) pour explorer plus facilement les potentialités de notre algorithme en modifiant la valeur de variables grâce à des [sliders](https://p5js.org/reference/#/p5/createSlider) ou en déclanchant des actions avec des [boutons](https://p5js.org/reference/#/p5/createButton)
+
+<img src="https://github.com/v3ga/Cours_Bordeaux_Montaigne/blob/master/L2_2020_2021/LAG4U6_2021_cours09_particles.gif?raw=true" height="300" />
+
+
 
 
 
