@@ -166,7 +166,9 @@ Dans ce cours nous allons aborder deux choses :
 
 <img src="https://github.com/v3ga/Cours_Bordeaux_Montaigne/blob/master/L2_2020_2021/LAG4U6_2021_cours09_particles.gif?raw=true" height="300" />
 
-
+#### Références
+* [Répartition de points — technique Poisson Disc sampling](https://www.jasondavies.com/poisson-disc/)
+* [Répartition de points — technique de Stippling](https://observablehq.com/@fil/linde-buzo-gray-stippling)
 
 
 
