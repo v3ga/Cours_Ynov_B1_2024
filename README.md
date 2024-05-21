@@ -169,7 +169,7 @@ Dans ce cours nous allons aborder deux choses :
 #### Références
 * [Répartition de points — technique Poisson Disc sampling](https://www.jasondavies.com/poisson-disc/)
 * [Répartition de points — technique de Stippling](https://observablehq.com/@fil/linde-buzo-gray-stippling)
-
+* [Sketch "deux élements au hasard" (format vectoriel SVG)](https://editor.p5js.org/v3ga/sketches/gKNCj0Gkt)
 
 
 
