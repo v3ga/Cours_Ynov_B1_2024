@@ -161,7 +161,7 @@ Je porterai le traceur pour faire une démonstration au cours du jeudi 23 mai.
 **mardi 21 mai 2024**
 
 Dans ce cours nous allons aborder deux choses : 
-* les **tableaux**, type de variable spéciale qui permet d'associer à une variable un ensemble de données, pratique pour gérer plusieurs objets simultanément. Nous appliquerons ce concept à la création d'un système de particules, en nous basant sur la modélisation de "bille" (ou particule) que nous avons vue au cours #03. Nous passerons de la gestion d'une particule à [n] particules. L'écriture et la lecture d'un tableau va se faire à travers une boucle for, notion vue au cours #04. 
+* les **tableaux**, type de variable spéciale qui permet d'associer à une variable un ensemble de données, pratique pour gérer plusieurs objets simultanément. Nous appliquerons ce concept à la création d'un système de particules, en nous basant sur [la modélisation de "bille" (ou particule)](https://editor.p5js.org/v3ga/sketches/nRfjMA4aM) que nous avons vue au cours #03. Nous passerons de la gestion d'une particule à [n] particules. L'écriture et la lecture d'un tableau va se faire à travers une boucle for, notion vue au cours #0'.
 * nous apprendrons aussi à relier une variable à un élément d'interface graphique (UI = user interface) pour explorer plus facilement les potentialités de notre algorithme en modifiant la valeur de variables grâce à des [sliders](https://p5js.org/reference/#/p5/createSlider) ou en déclanchant des actions avec des [boutons](https://p5js.org/reference/#/p5/createButton)
 
 <img src="https://github.com/v3ga/Cours_Bordeaux_Montaigne/blob/master/L2_2020_2021/LAG4U6_2021_cours09_particles.gif?raw=true" height="300" />
